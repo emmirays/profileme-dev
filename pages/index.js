@@ -523,7 +523,7 @@ Web Developer
                 Share your <span className="text-brand">socials</span>
               </h2>
               <p className="text-lg mb-0">
-                Add links to all of your social profiles and blogs in seconds.
+                Easily add links to all of your social profiles and blogs in seconds.
               </p>
             </motion.div>
           </div>
@@ -593,7 +593,7 @@ Web Developer
             </h2>
             <p className="text-lg text-center mb-0">
               When you&apos;re done, copy your profile code and you&apos;re
-              ready to go!
+              ready to go 👍!
             </p>
           </motion.div>
 
